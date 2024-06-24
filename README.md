@@ -2,6 +2,7 @@
 <h2> Introduction </h2>
 
 This project aims to develop a machine learning model for translating real-time streaming American Sign Language (ASL) letters into corresponding English alphabets. This is an essential first step towards creating a comprehensive ASL translation tool that can assist in bridging the communication gap for individuals who rely on sign language. Our initial focus is on recognizing real-time hand signs representing the 26 letters of the English alphabet, achieving an accuracy rate of 70%.
+
 ![ASL_Alphabet](https://github.com/Fara7amad/ASL-translation/assets/106997246/ad4ec92e-41d0-476c-aa46-a1e1af67e2b6)
 
 
