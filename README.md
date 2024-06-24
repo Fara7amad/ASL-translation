@@ -2,6 +2,9 @@
 <h2> Introduction </h2>
 
 This project aims to develop a machine learning model for translating real-time streaming American Sign Language (ASL) letters into corresponding English alphabets. This is an essential first step towards creating a comprehensive ASL translation tool that can assist in bridging the communication gap for individuals who rely on sign language. Our initial focus is on recognizing real-time hand signs representing the 26 letters of the English alphabet, achieving an accuracy rate of 70%.
+![ASL_Alphabet](https://github.com/Fara7amad/ASL-translation/assets/106997246/ad4ec92e-41d0-476c-aa46-a1e1af67e2b6)
+
+
 ---
 Table of Contents:
 
@@ -80,6 +83,26 @@ While the project demonstrates promising results, it is essential to acknowledge
 <h2> Results </h2>
 
 The model achieved an accuracy rate of 70%. This indicates a reasonable performance for initial attempts but also highlights the need for further improvements, especially in handling letters that involve movement and expanding the dataset for more robust training and evaluation.
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/4c4c6469-16fd-45ff-8053-4447ec5b0ee5)
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/8363d827-6da7-4e30-a873-7dd1c0beeecb)
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/b4ae5585-9852-4e3c-a5a0-3b481d311fea)
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/8bee1cd3-6044-4889-baa9-ab0ff3e3caa8)
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/d09aa3aa-6996-4f1a-a97c-ca9c8a300942)
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/e331bcfe-fd05-446c-8de1-c9663f68f6bd)
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/2285677d-a554-4db8-9422-18d372cdd997)
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/5ceab8fb-136b-4264-8ad9-994c302cecc5)
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/31a1e31d-3e3a-4cc4-b20a-6a60c319c6b5)
+
+![image](https://github.com/Fara7amad/ASL-translation/assets/106997246/f9bf9af4-9436-4c62-85e4-5deca15bfbef)
 
 ---
 <h2>Conclusion</h2>
